@@ -105,7 +105,7 @@ h1, h2, h3, h4, h5, h6{
 }
 
 #quote-divider{
-	background: url('http://placehold.it/1200x800');
+	background: url('../img/thesis_02.jpg');/*1200x800*/
 	background-size: cover;
 	background-attachment: fixed;
 	position: relative;
@@ -147,7 +147,7 @@ h1, h2, h3, h4, h5, h6{
 }
 
 #clients{
-	background:url('http://placehold.it/1200x800');
+	background:url('../img/thesis_03.jpg');
 	background-size: cover;
 	background-attachment: fixed;
 	position: relative;
